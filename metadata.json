@@ -1,0 +1,5 @@
+{
+  "name": "NSE Bhavcopy Analytics",
+  "description": "Automated NSE data downloader and historical dashboard with SQLite storage and interactive charts.",
+  "requestFramePermissions": []
+}
